@@ -2,3 +2,9 @@
 
 I'm glad you are here. I plan to talk about ...
 This is another line added by Walid!
+
+**This is bold text**	
+
+This is another line!
+
+Yet another line!
